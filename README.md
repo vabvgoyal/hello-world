@@ -1,2 +1,2 @@
 # hello-world
-test repositiory for commit test
+test repositiory for commit
